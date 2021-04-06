@@ -1,7 +1,3 @@
----
-typora-root-url: ./figs/
----
-
 # Apollo学习笔记
 
 > 作者：邹镇洪（清华大学车辆学院，[个人主页](https://beihang.com/zouzh/)）
